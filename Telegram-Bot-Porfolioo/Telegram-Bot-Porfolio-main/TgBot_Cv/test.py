@@ -3,7 +3,7 @@ from aiogram.filters import Command
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, InputMedia, WebAppInfo
 import asyncio
 
-TOKEN = "7758945683:AAHMdKXctl6yDr1S6-4DM2zByqyBc6nTkbU"
+TOKEN = "Your Token"
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
